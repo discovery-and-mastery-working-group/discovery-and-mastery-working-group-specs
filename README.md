@@ -9,6 +9,5 @@ We're Collaborative, Free and Open Source
 - Post any ideas you have as Issues to the repo.
 - Make a Pull Request if you'd like to contribute your own work.
 - Fork the repo and go your own way.
-
-If you are interested in joining the Working Group, please contact us through the GitHub repo.
+- If you are interested in joining the Working Group, please contact us through the GitHub repo.
 
