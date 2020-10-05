@@ -1,5 +1,4 @@
-Discovery and Mastery Based Education Working Group Specifications
-------------------------------------------------------------------
+## Our Specs and Analysis
 
 Welcome to the home of the DMBE Working Group's specifications.
 
