@@ -1,4 +1,4 @@
-# DMBE Working Group Specifications Documents 
+# DMBE Working Group Specifications 
 
 You've made it to the source repository of the Discovery and Mastery Based Education Working Group's specifications and analysis.
 
