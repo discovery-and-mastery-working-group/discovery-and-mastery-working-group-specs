@@ -1,6 +1,6 @@
 - Analysis by Discovery and Mastery Based Education Working Group
-
-Observations toward Legacy Programs
+- [<- Specs]()
+Observations Toward Legacy Programs
 -----------------------------------
 
 - hello world
